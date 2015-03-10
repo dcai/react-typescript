@@ -4,6 +4,7 @@ interface Props {
     size: number;
 }
 
+// <Props, State, Context>
 class List extends React.Component<Props, any, any> {
     static defaultProps = { size: 2 };
     render() {
