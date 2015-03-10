@@ -4,7 +4,7 @@
 
 #### Solution
 Trick compiler to belive the file exists by adding definition files, please see lib/.
-And we need to add ///<reference path="" /> line to all TypeScript files.
+And we need to add `///<reference path="" />` line to all TypeScript files.
 
 
 ### Pain point 2: jsx
