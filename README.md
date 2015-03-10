@@ -6,6 +6,8 @@
 Trick compiler to belive the file exists by adding definition files, please see lib/.
 And we need to add `///<reference path="" />` line to all TypeScript files.
 
+The problem is we have to add reference for any npm packages we added to the project. Here is a collection of definitions: https://github.com/borisyankov/DefinitelyTyped
+
 
 ### Pain point 2: jsx
 #### Option 1
