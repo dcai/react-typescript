@@ -1,0 +1,19 @@
+{
+  "name": "react-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dongsheng Cai",
+  "license": "ISC",
+  "dependencies": {
+    "jsx-typescript": "^1.5.0-alpha.5",
+    "react": "^0.13.0-beta.1",
+    "ts-jsx-loader": "^0.1.2",
+    "ts-loader": "^0.3.2",
+    "typescript-loader": "^1.1.2"
+  }
+}
